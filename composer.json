@@ -2,9 +2,9 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "craftcms/aws-s3": "^2.2.3",
     "craftcms/ckeditor": "4.6.0",
     "craftcms/cms": "^5.8.17",
+    "servd/craft-asset-storage": "^4.2",
     "vlucas/phpdotenv": "^5.4.0"
   },
   "require-dev": {
