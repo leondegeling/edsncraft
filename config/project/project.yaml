@@ -1,4 +1,4 @@
-dateModified: 1768298123
+dateModified: 1768387726
 email:
   fromEmail: gerben.snellenberg@edsn.nl
   fromName: craftcms-poc
@@ -128,6 +128,7 @@ meta:
     ea4bf2b8-690e-4f4b-acd9-5e7022a66761: 'Bottom links'
     ea93d46f-8749-4505-b97a-5be1e9a05da9: Grafieken
     f2b5ea7f-5c01-4106-9305-85559361a2a7: 'NED - Veelgestelde vragen'
+    f8de31b0-be28-4ad8-b4e6-303b8c01a65d: 'NED - API Datacatalogus'
     fd82774d-0fb9-4184-ac15-27f59f652317: Image
 plugins:
   ckeditor:
