@@ -1,0 +1,334 @@
+columnSuffix: null
+handle: chartType
+instructions: null
+name: 'Grafiek type'
+searchable: false
+settings:
+  customOptions: false
+  options:
+    -
+      __assoc__:
+        -
+          - label
+          - 'co2 monitor - co2 emissiefactor'
+        -
+          - value
+          - co2MonitorCo2Emission
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'co2 emissiefactor vandaag'
+        -
+          - value
+          - co2EmissionTotalToday
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'co2 emissiefactor terugblik'
+        -
+          - value
+          - co2EmissionTotalHistory
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'co2 emissiefactor totaal 12 maanden'
+        -
+          - value
+          - co2EmissionTotalLastMonths
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Energie productie totaal vandaag'
+        -
+          - value
+          - energyProductionTotalToday
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Energie productie totaal laatste jaren'
+        -
+          - value
+          - energyProductionTotalLastYears
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Energie productie totaal 12 maanden'
+        -
+          - value
+          - energyProductionTotalLastMonths
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Energie productie totaal voorspelling'
+        -
+          - value
+          - energyProductionTotalPrediction
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Energie productie totaal terugblik'
+        -
+          - value
+          - energyProductionTotalHistory
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Actuele consumptie van gas (pie)'
+        -
+          - value
+          - gasConsumption
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Actuele productie van elektriciteit (pie)'
+        -
+          - value
+          - energyProduction
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Actuele CO₂-uitstoot'
+        -
+          - value
+          - gasMix
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Gas voorraad - Vullingsgraad afgelopen 365 dagen'
+        -
+          - value
+          - gasLevelLastYear
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Gas voorraad - individueel afgelopen 365 dagen'
+        -
+          - value
+          - gasLevelsLastYear
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Gas voorraad - individueel vulling afgelopen 5 jaar'
+        -
+          - value
+          - gasLevelsLastYears
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Energie productie zon vandaag'
+        -
+          - value
+          - energyProductionSolarToday
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Energie productie zon 12 maanden'
+        -
+          - value
+          - energyProductionSolarLastMonths
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Energie productie zon laatste jaren'
+        -
+          - value
+          - energyProductionSolarLastYears
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Energie productie zon voorspelling'
+        -
+          - value
+          - energyProductionSolarPrediction
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Dropdown

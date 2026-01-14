@@ -1,0 +1,9 @@
+baseUrl: 'https://ned.nl/'
+enabled: true
+handle: ned_nl
+hasUrls: true
+language: nl
+name: 'ned.nl (nl)'
+primary: true
+siteGroup: d1dc85a3-ee97-4210-a304-fb19b693c3db
+sortOrder: 1

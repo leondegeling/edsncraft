@@ -1,0 +1,67 @@
+color: null
+fieldLayouts:
+  c4929d5c-e4f0-4ca8-a50d-3434bf587326:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2025-09-18T06:53:38+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            includeInCards: false
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            providesThumbs: false
+            readonly: false
+            required: true
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 62487b11-be89-43e1-b2da-4b5cb8c75717
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-09-18T13:33:33+00:00'
+            elementCondition: null
+            fieldUid: b3412661-bf32-4dce-b89c-256181de29f0
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 9fa994aa-5b23-46c2-8ed6-9bc10bb9a5b1
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: e6a06316-9c17-4890-80e6-90053f83e97f
+        userCondition: null
+handle: blockSources
+hasTitleField: true
+icon: sun
+name: 'Blok - Bronnen'
+showSlugField: false
+showStatusField: false
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: siteGroup

@@ -1,0 +1,83 @@
+color: null
+fieldLayouts:
+  da37cc6b-92f9-4e59-bb24-d656d0f6d7e7:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2025-07-24T07:52:28+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            includeInCards: false
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            providesThumbs: false
+            readonly: false
+            required: true
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 51bc7149-7fa3-4d70-8a3f-ae8b1d31653d
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-07-24T07:54:22+00:00'
+            elementCondition: null
+            fieldUid: 345a660a-da1d-4646-a39a-7ae0a127bb15
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 3ab51d6b-5546-487a-ae5d-b8550f62ef1b
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-07-24T07:54:22+00:00'
+            elementCondition: null
+            fieldUid: bdadc13b-5397-44dc-9d8b-7f74bc739f86
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 4717caeb-117f-4967-b215-b77d5bec98c1
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 42c0cc17-0e03-4e5a-bde8-110d2a8e4dab
+        userCondition: null
+handle: blockCo2Header
+hasTitleField: true
+icon: null
+name: 'Blok - Co2 header'
+showSlugField: false
+showStatusField: false
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

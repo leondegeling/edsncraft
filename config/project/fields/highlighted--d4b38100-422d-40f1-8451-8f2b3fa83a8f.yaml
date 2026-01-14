@@ -1,0 +1,12 @@
+columnSuffix: null
+handle: highlighted
+instructions: null
+name: Highlighted
+searchable: false
+settings:
+  default: true
+  offLabel: Normal
+  onLabel: Blue
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Lightswitch

@@ -1,0 +1,12 @@
+columnSuffix: null
+handle: showHighlighted
+instructions: null
+name: 'Toon top vragen'
+searchable: false
+settings:
+  default: false
+  offLabel: Nee
+  onLabel: Ja
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Lightswitch

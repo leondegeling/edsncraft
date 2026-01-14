@@ -1,0 +1,83 @@
+color: null
+fieldLayouts:
+  38dc96ed-5bc7-4e9f-a3cf-c3db04b8a788:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2025-09-24T09:17:41+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            includeInCards: false
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            providesThumbs: false
+            readonly: false
+            required: true
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 16663827-6d89-44f5-9c27-d862e92976ac
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-09-24T13:49:59+00:00'
+            elementCondition: null
+            fieldUid: a41b385d-4a7c-4683-9c60-5eba696991b7
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 23b58fb8-4cd0-49df-b6a7-10d51fce5870
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-09-24T15:00:00+00:00'
+            elementCondition: null
+            fieldUid: 6383396e-0a28-4b35-84fb-a1c4cafc9c72
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: dea06b32-cea7-4c9c-838d-252ddfac6491
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 17ebcf88-4678-4239-9675-b3f159912c5c
+        userCondition: null
+handle: blockArticles
+hasTitleField: true
+icon: null
+name: 'Blok - Artikelen'
+showSlugField: false
+showStatusField: false
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: siteGroup

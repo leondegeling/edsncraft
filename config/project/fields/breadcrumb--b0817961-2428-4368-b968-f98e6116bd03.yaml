@@ -1,0 +1,25 @@
+columnSuffix: null
+handle: breadcrumb
+instructions: null
+name: breadcrumb
+searchable: false
+settings:
+  createButtonLabel: 'Add item'
+  defaultIndexViewMode: cards
+  entryTypes:
+    -
+      __assoc__:
+        -
+          - uid
+          - c0bfa62b-5c71-45d4-addd-e32da1cb77fe
+  includeTableView: false
+  maxEntries: null
+  minEntries: null
+  pageSize: 50
+  propagationKeyFormat: null
+  propagationMethod: none
+  showCardsInGrid: false
+  viewMode: index
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

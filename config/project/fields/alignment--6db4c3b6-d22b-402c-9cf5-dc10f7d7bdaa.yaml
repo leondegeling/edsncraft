@@ -1,0 +1,45 @@
+columnSuffix: null
+handle: alignment
+instructions: null
+name: Uitlijning
+searchable: false
+settings:
+  customOptions: false
+  options:
+    -
+      __assoc__:
+        -
+          - label
+          - 'Afbeelding links'
+        -
+          - value
+          - imageLeft
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Afbeelding rechts'
+        -
+          - value
+          - imageRight
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Dropdown

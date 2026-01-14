@@ -1,0 +1,300 @@
+columnSuffix: null
+handle: tableSource
+instructions: null
+name: 'Table source'
+searchable: false
+settings:
+  customOptions: false
+  options:
+    -
+      __assoc__:
+        -
+          - label
+          - 'Energie productie - Zon energie'
+        -
+          - value
+          - energy-production-solar
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Energie productie - Wind op zee'
+        -
+          - value
+          - energy-production-wind-sea
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Energie productie - Wind op land'
+        -
+          - value
+          - energy-production-wind-land
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Energie productie - WKK'
+        -
+          - value
+          - energy-production-wkk
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Energie productie - Overig'
+        -
+          - value
+          - energy-production-other
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Energie productie - Afvalcentrales'
+        -
+          - value
+          - energy-production-waste-plants
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Energie productie - Kernenergie'
+        -
+          - value
+          - energy-production-nuclear
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Energie productie - Gascentrales'
+        -
+          - value
+          - energy-production-gasstations
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Energie productie - Steenkool'
+        -
+          - value
+          - energy-production-coal
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Energie productie - Biomassa'
+        -
+          - value
+          - energy-production-biomass
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Energie consumptie - Totaal'
+        -
+          - value
+          - energy-production-total
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Gas consumptie - Totaal'
+        -
+          - value
+          - energy-consumption-gas-total
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Gas consumptie - Industrie'
+        -
+          - value
+          - energy-consumption-gas-industry
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Gas consumptie - Huishoudens'
+        -
+          - value
+          - energy-consumption-gas-households
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Gas consumptie - Gascentrales'
+        -
+          - value
+          - energy-consumption-gas-stations
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Energie - Populaire datasets'
+        -
+          - value
+          - energy-popular
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Gas - Populaire datasets'
+        -
+          - value
+          - gas-popular
+        -
+          - icon
+          - ''
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Dropdown

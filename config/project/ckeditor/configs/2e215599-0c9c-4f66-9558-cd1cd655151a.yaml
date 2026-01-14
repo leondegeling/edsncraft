@@ -1,0 +1,40 @@
+headingLevels:
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+name: Extended
+options:
+  alignment:
+    options:
+      - left
+      - center
+      - right
+  style:
+    definitions:
+      -
+        classes:
+          - content-lead
+        element: p
+        name: 'Intro tekst'
+      -
+        classes:
+          - content-small
+        element: p
+        name: 'Kleine tekst'
+toolbar:
+  - style
+  - heading
+  - '|'
+  - bold
+  - italic
+  - alignment
+  - bulletedList
+  - numberedList
+  - outdent
+  - indent
+  - '|'
+  - link
+  - insertImage
+  - sourceEditing

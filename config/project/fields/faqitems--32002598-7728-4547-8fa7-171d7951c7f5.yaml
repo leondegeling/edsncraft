@@ -1,0 +1,25 @@
+columnSuffix: null
+handle: faqitems
+instructions: null
+name: FAQItems
+searchable: false
+settings:
+  createButtonLabel: Toevoegen
+  defaultIndexViewMode: cards
+  entryTypes:
+    -
+      __assoc__:
+        -
+          - uid
+          - 86abf44b-8f09-4ac3-931f-4c2e95011cbc
+  includeTableView: false
+  maxEntries: null
+  minEntries: null
+  pageSize: 50
+  propagationKeyFormat: null
+  propagationMethod: siteGroup
+  showCardsInGrid: false
+  viewMode: cards
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

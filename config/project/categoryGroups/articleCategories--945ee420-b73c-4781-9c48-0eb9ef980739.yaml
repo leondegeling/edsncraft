@@ -1,0 +1,63 @@
+defaultPlacement: end
+fieldLayouts:
+  25bfb4db-847a-432a-a123-a0c8787ea7ef:
+    cardThumbAlignment: end
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2025-04-16T12:33:26+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            includeInCards: false
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            providesThumbs: false
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\TitleField
+            uid: 6cfc71d2-2d71-446c-adb6-80ebd94c4fff
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 36fd4767-0405-4aed-8552-c961e91ba9f8
+        userCondition: null
+handle: articleCategories
+name: 'Artikel categorieen'
+siteSettings:
+  66aa3aba-35c5-4d21-93aa-ebcb50421172:
+    hasUrls: false
+    template: null
+    uriFormat: null
+  089632a9-4660-4bdc-a011-d5dcfed12764:
+    hasUrls: false
+    template: null
+    uriFormat: null
+  c074f890-9562-4809-b6a5-9905399f1210:
+    hasUrls: false
+    template: null
+    uriFormat: null
+  d13359bc-448f-48e7-9263-72b92ed81002:
+    hasUrls: false
+    template: null
+    uriFormat: null
+structure:
+  maxLevels: 1
+  uid: 4d169676-66c3-459c-8547-084b00f0802d

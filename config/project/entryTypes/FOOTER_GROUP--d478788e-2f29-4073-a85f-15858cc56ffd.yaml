@@ -1,0 +1,70 @@
+color: null
+description: null
+fieldLayouts:
+  a9e865f7-07d4-42d7-bda6-a69138a104b2:
+    cardThumbAlignment: end
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2025-06-10T13:59:00+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            includeInCards: false
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            providesThumbs: false
+            readonly: false
+            required: true
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: a4ec8cb7-82cc-460b-8752-aa301743583a
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-06-10T14:16:11+00:00'
+            editCondition: null
+            elementCondition: null
+            fieldUid: 764092b6-1005-45cc-9ec9-10b7d33a4438
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 5059cd8f-fce6-49c6-a848-a2c9c823be8d
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: d66078bc-bae1-4f3e-a35d-0a9b005949c1
+        userCondition: null
+handle: FOOTER_GROUP
+hasTitleField: true
+icon: null
+name: 'Footer group'
+showSlugField: false
+showStatusField: false
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

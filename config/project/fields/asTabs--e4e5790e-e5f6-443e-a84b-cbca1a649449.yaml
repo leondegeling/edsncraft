@@ -1,0 +1,12 @@
+columnSuffix: null
+handle: asTabs
+instructions: null
+name: 'Toon als tabbladen'
+searchable: false
+settings:
+  default: true
+  offLabel: Nee
+  onLabel: Ja
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Lightswitch

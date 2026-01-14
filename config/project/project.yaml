@@ -1,0 +1,164 @@
+dateModified: 1768298123
+email:
+  fromEmail: gerben.snellenberg@edsn.nl
+  fromName: craftcms-poc
+  transportType: craft\mail\transportadapters\Sendmail
+fs:
+  assets:
+    hasUrls: false
+    name: 'Servd assets'
+    settings:
+      cdnUrlPattern: ''
+      customSubfolder: ''
+      makeUploadsPublic: true
+      optimisePrefix: ''
+      optimiseUrlPattern: ''
+      projectSlug: ''
+      securityKey: ''
+      subfolder: staging/
+    type: servd\AssetStorage\AssetsPlatform\Fs
+    url: 'https://wide-duck.files.svdcdn.com'
+  hardDisk:
+    hasUrls: true
+    name: 'Hard disk'
+    settings:
+      path: '@webroot/uploads'
+    type: craft\fs\Local
+    url: '@uploads'
+meta:
+  __names__:
+    0c22beff-051e-4628-9398-939d97327358: Tooltips
+    1aea4e3e-1614-4e7a-b6a3-a30723cdd178: 'NED - Totale elektriciteitsproductie'
+    1aee576b-da2d-49ac-9e1d-8417251069c7: 'Public Schema'
+    2aadf8f5-cd12-4740-8e8e-86915f379aff: Category
+    2ac5993a-d09d-4e89-9d5b-d2981c122ebb: Toggle
+    2b32f6f3-8a43-4af4-8c4b-f5efd53faf87: 'Blok - Thema header'
+    2e215599-0c9c-4f66-9558-cd1cd655151a: Extended
+    2f99b91e-a36f-413c-a2b8-79fe072c9c24: 'Gerelateerde groepen'
+    2fae31fd-4f77-497a-bf91-c76a724edfb0: 'Pagina trefwoorden'
+    3a64d23b-32a1-4137-87ca-6719340373fa: 'Blok - Veelgestelde vragen'
+    3a89cd0e-409e-400c-a34d-8c2b03bab1b6: 'Blok - Artikelen'
+    3cc34c47-0437-4db7-9421-2ed23074c150: 'Co2 monitor - Over ons'
+    4d8b0e31-4e96-494b-9bb5-21716396ffaf: 'Co2 monitor - Uitgangspunten'
+    5da9fddb-7db3-4ab7-a475-8efb5e3683c6: Registreren
+    6a32efc3-dd82-4540-9099-f19140cd9e70: 'NED - Productie - Electriciteit'
+    6db4c3b6-d22b-402c-9cf5-dc10f7d7bdaa: Uitlijning
+    6e82571b-0c86-4821-a222-0af8471862d4: 'Blok - Tekst'
+    7a0698fb-46f6-43ab-9cee-252dbd359e20: co2monitor
+    8c20f210-c445-48bb-b386-d163a9767ac0: Site
+    8c94fbd9-93e4-4119-8855-65472236e26d: Inloggen
+    21f7a7cb-63f7-437d-9916-29fa90e4806c: 'Co2 monitor - Energiebronnen'
+    25d26794-2f4f-4a4c-a324-5109b4870342: Page
+    26a15df5-a4d1-4e6d-a0ba-af582206462c: 'Page link'
+    27a610b9-4ed7-4254-ab1f-14e9346dbe8c: 'Theme icon'
+    29c2c3e9-d577-44a9-9efb-c0e7a5876d9f: 'Toon top vragen'
+    54f8b5fb-9b68-4a82-940c-371b8c89f301: Tooltip
+    66aa3aba-35c5-4d21-93aa-ebcb50421172: 'ned.nl (en)'
+    67e2a525-7110-4745-aa62-28093d63ada7: local
+    72f3934d-a70b-4c69-959f-c83bd7990f4e: Gerelateerd
+    85b15669-83a3-4743-b1db-4b79eb231048: Articles
+    86abf44b-8f09-4ac3-931f-4c2e95011cbc: 'FAQ item'
+    93a53679-ae1a-42ab-a3e2-a5f4aa8774d7: Navigation
+    146bec49-b4af-4f42-8f40-f349aedb440f: Achtergrond
+    345a660a-da1d-4646-a39a-7ae0a127bb15: Text
+    383e56a9-8a89-48b4-af80-8e69c8979acd: 'Use cases'
+    541c1c9f-7f16-483f-bcc0-85350abb1812: 'Grafiek type'
+    0726a991-151f-48ab-ba6f-ba586c1a4523: Header
+    824a6180-9884-4542-ac85-1aa82aaf264d: Simple
+    844aad9a-3817-43a5-92b7-c371e5cd2dc2: 'Pagina titel'
+    877ea780-7596-469e-8785-fb595903d3e9: Footer
+    899a4482-9042-4c04-bc03-0b07b84211e4: Tabs
+    945ee420-b73c-4781-9c48-0eb9ef980739: 'Artikel categorieen'
+    1346fb12-1bd9-4abe-924d-1edfc7bdefe1: 'Toon als tabel'
+    5523e7e2-d128-458c-b28a-3c9fcfb63554: 'NED - Dataportaal overzicht'
+    6185acf9-3abb-4565-ad05-f1e327e1dd15: Artikelen
+    27151a52-b5d8-4e5c-9c5d-6348f1aebd23: 'FAQ Categorie'
+    44934f81-7401-4a11-85a1-d608b42326a9: Highlight
+    53909c15-bdd6-4de7-867f-1b3df18efdc9: Gerelateerd
+    089632a9-4660-4bdc-a011-d5dcfed12764: 'co2monitor.nl (en)'
+    90024d10-4964-4e23-888f-56257206b34a: 'Co2 monitor - Co2 emissiefactor'
+    95359c32-8f2c-4c6d-a0c7-842400ab3a65: 'Navigation Item'
+    176699c6-7faa-4b7e-91e3-a2f3846f79c5: Label
+    204770a6-167a-4456-8a65-ba7e72bb1f29: Datum
+    453759aa-bd80-4539-9f18-3c411c12b1d4: Category
+    764092b6-1005-45cc-9ec9-10b7d33a4438: Links
+    3203131b-63df-45fa-890b-ef360562dc8f: 'NED - Homepage'
+    6280884d-d74c-4f72-b24a-a6364abd621f: 'Blok - Bronnen'
+    6383396e-0a28-4b35-84fb-a1c4cafc9c72: Related
+    07887872-1605-4203-8a26-2d70cf6aee5d: 'Table source'
+    11681436-617c-4c2e-b60e-7afda23f699f: 'Tab item voor Grafiek '
+    32002598-7728-4547-8fa7-171d7951c7f5: FAQItems
+    65854372-fb65-4f05-9ec4-d8d1da22466d: Grafiek
+    a6e914a2-6a89-4bfd-8f3f-aabf1f31e67b: Blocks
+    a6f77470-7bb8-494b-98cb-51ccd23788e4: 'Pagina beschrijving'
+    a8b7d154-c5db-4e66-9a2e-b5dd891b7263: 'NED - Over ons'
+    a8fcf29d-38ca-4ca0-b71f-4de9e9cff085: 'Co2 monitor - Veelgestelde vragen'
+    a41b385d-4a7c-4683-9c60-5eba696991b7: 'Aantal berichten'
+    ac5bde49-c71b-4edf-847e-550fb87d2619: 'NED - Zonne-energie'
+    ad463950-34c4-4616-bd21-8ae120123af7: Colspan
+    b01d6c3f-e532-4516-86ca-e7eef7091e48: 'Blok - Grafiek'
+    b070f1e9-f369-4be4-ac14-4c30d3f1ccfd: Link
+    b0817961-2428-4368-b968-f98e6116bd03: breadcrumb
+    b2b50a20-512a-4a5a-9da4-adf07550c915: 'Uitlijning tekst'
+    b235ef4f-65f2-40df-b3ab-362721465a76: 'Privacy statement'
+    b897d70e-3e6f-4843-92e1-0f0321d65afd: Images
+    b3412661-bf32-4dce-b89c-256181de29f0: 'Energy source'
+    bb3768a8-f06a-4680-b323-175c7501d0e1: Rowspan
+    bdadc13b-5397-44dc-9d8b-7f74bc739f86: 'Rich Text'
+    c0bfa62b-5c71-45d4-addd-e32da1cb77fe: 'Breadcrumb item'
+    c074f890-9562-4809-b6a5-9905399f1210: 'co2monitor.nl (nl)'
+    c5d2c9c4-d877-463a-9ab2-73afc1444830: 'Blok - Co2 header'
+    c7b2399b-e1e1-4439-aa77-d5ee7f57f8b0: 'NED - Productiedata'
+    c9a9088f-4a8d-4467-ba94-e4b30ff04e09: Related
+    c55ca0a9-4bd6-409b-afd8-c1884dafecd0: Team
+    c597df25-6a4c-4ce1-a443-709db0448b92: FAQGroups
+    ca1fbf65-ce9d-46f8-a1ae-1985ad4ed862: 'NED - Artikelen'
+    cac2fb52-fcc3-4293-9eb4-9f4e0a4fb976: 'Algemene voorwaarden'
+    d1dc85a3-ee97-4210-a304-fb19b693c3db: ned
+    d4b38100-422d-40f1-8451-8f2b3fa83a8f: Highlighted
+    d13359bc-448f-48e7-9263-72b92ed81002: 'ned.nl (nl)'
+    d78660ad-69b8-4575-9055-635a706cc690: JSON
+    d333897b-91df-4986-b344-ffbb7e7a7231: 'Energie bronnen'
+    d478788e-2f29-4073-a85f-15858cc56ffd: 'Footer group'
+    e04034c0-80c1-4e53-a600-7a6f6073feed: Cases
+    e3b758a0-7052-4bdf-8096-2f0a5fd0e7b4: Disclaimer
+    e4e5790e-e5f6-443e-a84b-cbca1a649449: 'Toon als tabbladen'
+    e9d77b53-9e10-4666-b12e-27b828e974ae: 'Stretch children'
+    e9eb240a-ad9f-4fc7-973f-feab19fd9e86: 'Blok - Table'
+    ea4bf2b8-690e-4f4b-acd9-5e7022a66761: 'Bottom links'
+    ea93d46f-8749-4505-b97a-5be1e9a05da9: Grafieken
+    f2b5ea7f-5c01-4106-9305-85559361a2a7: 'NED - Veelgestelde vragen'
+    fd82774d-0fb9-4184-ac15-27f59f652317: Image
+plugins:
+  ckeditor:
+    edition: standard
+    enabled: true
+    schemaVersion: 3.0.0.0
+  servd-asset-storage:
+    edition: standard
+    enabled: true
+    schemaVersion: 3.0.0
+    settings:
+      adjustFeedmeLogs: ''
+      assetsEnvironment: ''
+      assetsEnvironmentOverwrite: ''
+      cacheClearMode: full
+      clearCachesOnSave: always
+      clearCdnCacheWhenAssetChanges: '1'
+      disableDynamic: ''
+      disableTransforms: ''
+      fsMapsEnabled: ''
+      imageAutoConversion: none
+      injectCors: ''
+      projectSlug: ''
+      securityKey: ''
+      suppressWarnings: ''
+      transformSvgs: 'no'
+      useLocalVolumes: false
+system:
+  edition: team
+  live: true
+  name: NED.nl
+  retryDuration: null
+  schemaVersion: 5.8.0.3
+  timeZone: Europe/Amsterdam

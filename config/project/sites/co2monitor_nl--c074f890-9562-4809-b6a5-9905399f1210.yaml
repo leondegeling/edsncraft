@@ -1,0 +1,9 @@
+baseUrl: 'https://co2monitor.nl'
+enabled: '1'
+handle: co2monitor_nl
+hasUrls: true
+language: nl
+name: 'co2monitor.nl (nl)'
+primary: false
+siteGroup: 7a0698fb-46f6-43ab-9cee-252dbd359e20
+sortOrder: 3

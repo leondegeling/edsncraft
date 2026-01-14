@@ -1,0 +1,41 @@
+columnSuffix: null
+handle: articles
+instructions: null
+name: Articles
+searchable: false
+settings:
+  createButtonLabel: 'Add article'
+  defaultIndexViewMode: cards
+  entryTypes:
+    -
+      __assoc__:
+        -
+          - uid
+          - 25d26794-2f4f-4a4c-a324-5109b4870342
+  includeTableView: false
+  maxEntries: null
+  minEntries: null
+  pageSize: 50
+  propagationKeyFormat: null
+  propagationMethod: all
+  showCardsInGrid: false
+  siteSettings:
+    __assoc__:
+      2:
+        - d13359bc-448f-48e7-9263-72b92ed81002
+        -
+          __assoc__:
+            -
+              - uriFormat
+              - 'nl/artikelen/{slug}'
+      3:
+        - 66aa3aba-35c5-4d21-93aa-ebcb50421172
+        -
+          __assoc__:
+            -
+              - uriFormat
+              - 'en/articles/{slug}'
+  viewMode: cards
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

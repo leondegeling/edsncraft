@@ -1,0 +1,19 @@
+columnSuffix: null
+handle: quantity
+instructions: null
+name: 'Aantal berichten'
+searchable: false
+settings:
+  decimals: 0
+  defaultValue: 4
+  max: null
+  min: 1
+  prefix: null
+  previewCurrency: null
+  previewFormat: decimal
+  size: null
+  step: null
+  suffix: null
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Number

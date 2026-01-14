@@ -1,0 +1,283 @@
+columnSuffix: null
+handle: themeIcon
+instructions: null
+name: 'Theme icon'
+searchable: false
+settings:
+  customOptions: false
+  options:
+    -
+      __assoc__:
+        -
+          - label
+          - Zonne-energie
+        -
+          - value
+          - solar
+        -
+          - icon
+          - ''
+        -
+          - color
+          - '#f7ea00'
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Totaal elektriciteitsproductie'
+        -
+          - value
+          - energyProductionTotal
+        -
+          - icon
+          - ''
+        -
+          - color
+          - '#66cc66'
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Windenergie op land'
+        -
+          - value
+          - windLand
+        -
+          - icon
+          - ''
+        -
+          - color
+          - '#3399cc'
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Windenergie op zee'
+        -
+          - value
+          - windSea
+        -
+          - icon
+          - ''
+        -
+          - color
+          - '#336699'
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - WKK
+        -
+          - value
+          - wkk
+        -
+          - icon
+          - ''
+        -
+          - color
+          - '#ff3333'
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - Gascentrales
+        -
+          - value
+          - fossilGas
+        -
+          - icon
+          - ''
+        -
+          - color
+          - '#afaf80'
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Bijstook van biomassa'
+        -
+          - value
+          - biomass
+        -
+          - icon
+          - ''
+        -
+          - color
+          - '#669966'
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - Steenkool
+        -
+          - value
+          - coal
+        -
+          - icon
+          - ''
+        -
+          - color
+          - '#8c7f6d'
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - Afvalcentrales
+        -
+          - value
+          - wastePlants
+        -
+          - icon
+          - ''
+        -
+          - color
+          - '#999966'
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - Kernenergie
+        -
+          - value
+          - nuclear
+        -
+          - icon
+          - ''
+        -
+          - color
+          - '#e5de5c'
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - Overig
+        -
+          - value
+          - otherPower
+        -
+          - icon
+          - ''
+        -
+          - color
+          - '#93928c'
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Totaal gasconsumptie'
+        -
+          - value
+          - industrialGasTotal
+        -
+          - icon
+          - ''
+        -
+          - color
+          - '#339999'
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Gasconsumptie Industrie '
+        -
+          - value
+          - industrialConsumerGas
+        -
+          - icon
+          - ''
+        -
+          - color
+          - '#99cccc'
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Gasconsumptie huishoudens en kleine bedrijven'
+        -
+          - value
+          - industrialHouseholdsGas
+        -
+          - icon
+          - ''
+        -
+          - color
+          - '#00cccc'
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Gasconsumptie gascentrales'
+        -
+          - value
+          - industrialGasStation
+        -
+          - icon
+          - ''
+        -
+          - color
+          - '#33cc99'
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - 'Elektriciteit consumptie'
+        -
+          - value
+          - electricityLoad
+        -
+          - icon
+          - ''
+        -
+          - color
+          - '#e1876f'
+        -
+          - default
+          - ''
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Dropdown

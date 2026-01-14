@@ -1,0 +1,25 @@
+columnSuffix: null
+handle: faqgroups
+instructions: null
+name: FAQGroups
+searchable: false
+settings:
+  createButtonLabel: 'Categorie toevoegen'
+  defaultIndexViewMode: cards
+  entryTypes:
+    -
+      __assoc__:
+        -
+          - uid
+          - 27151a52-b5d8-4e5c-9c5d-6348f1aebd23
+  includeTableView: false
+  maxEntries: null
+  minEntries: null
+  pageSize: 50
+  propagationKeyFormat: null
+  propagationMethod: all
+  showCardsInGrid: false
+  viewMode: cards
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

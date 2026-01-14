@@ -1,0 +1,14 @@
+columnSuffix: null
+handle: colspan
+instructions: null
+name: Colspan
+searchable: false
+settings:
+  defaultValue: 1
+  max: 3
+  min: 1
+  step: 1
+  suffix: null
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Range

@@ -1,0 +1,12 @@
+columnSuffix: null
+handle: asTable
+instructions: null
+name: 'Toon als tabel'
+searchable: false
+settings:
+  default: true
+  offLabel: null
+  onLabel: null
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Lightswitch

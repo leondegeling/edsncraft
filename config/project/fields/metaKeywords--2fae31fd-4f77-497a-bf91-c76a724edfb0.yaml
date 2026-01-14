@@ -1,0 +1,21 @@
+columnSuffix: null
+handle: metaKeywords
+instructions: 'Komma gescheiden woorden die iets zeggen over de inhoud van de pagina'
+name: 'Pagina trefwoorden'
+searchable: false
+settings:
+  allowSelfRelations: false
+  branchLimit: null
+  maintainHierarchy: false
+  maxRelations: null
+  minRelations: null
+  selectionLabel: 'Add keyword'
+  showCardsInGrid: false
+  showSiteMenu: false
+  source: 'taggroup:8c20f210-c445-48bb-b386-d163a9767ac0'
+  targetSiteId: null
+  validateRelatedElements: false
+  viewMode: null
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Tags

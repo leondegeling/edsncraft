@@ -1,0 +1,14 @@
+columnSuffix: null
+handle: rowspan
+instructions: null
+name: Rowspan
+searchable: false
+settings:
+  defaultValue: 1
+  max: 2
+  min: 1
+  step: 1
+  suffix: null
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Range

@@ -1,0 +1,125 @@
+defaultPlacement: end
+fieldLayouts:
+  142133aa-5dee-498d-a501-f457d6e0ff88:
+    cardThumbAlignment: end
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2025-09-18T13:18:35+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            includeInCards: false
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            providesThumbs: false
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\TitleField
+            uid: 0482b452-f2a3-49af-a3fb-ece43bed63f2
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-09-22T13:34:15+00:00'
+            editCondition: null
+            elementCondition:
+              class: craft\elements\conditions\categories\CategoryCondition
+              conditionRules:
+                -
+                  class: craft\elements\conditions\LevelConditionRule
+                  maxValue: ''
+                  operator: '='
+                  step: 1
+                  uid: 4fca1061-b58b-41a1-afaa-d8713b013dd7
+                  value: '1'
+              elementType: craft\elements\Category
+              fieldContext: global
+            fieldUid: bdadc13b-5397-44dc-9d8b-7f74bc739f86
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 732b9ed9-e6d1-4b6e-bdd5-7180b4a5ea8b
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-09-18T13:23:27+00:00'
+            editCondition: null
+            elementCondition: null
+            fieldUid: 27a610b9-4ed7-4254-ab1f-14e9346dbe8c
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 1b6b5240-11d4-432c-a34d-dd2052a7d08e
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-09-18T13:23:27+00:00'
+            editCondition: null
+            elementCondition: null
+            fieldUid: 26a15df5-a4d1-4e6d-a0ba-af582206462c
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 18c7a171-cd19-42b2-9eb9-71db7e795b5b
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: c8e9ec15-b45e-4dff-b521-e39d7a4939c9
+        userCondition: null
+handle: sources
+name: 'Energie bronnen'
+siteSettings:
+  66aa3aba-35c5-4d21-93aa-ebcb50421172:
+    hasUrls: false
+    template: null
+    uriFormat: null
+  089632a9-4660-4bdc-a011-d5dcfed12764:
+    hasUrls: false
+    template: null
+    uriFormat: null
+  c074f890-9562-4809-b6a5-9905399f1210:
+    hasUrls: false
+    template: null
+    uriFormat: null
+  d13359bc-448f-48e7-9263-72b92ed81002:
+    hasUrls: false
+    template: null
+    uriFormat: null
+structure:
+  maxLevels: 2
+  uid: aea5fef1-4f69-4311-8239-edddf84b211c

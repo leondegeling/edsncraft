@@ -1,0 +1,63 @@
+defaultPlacement: end
+fieldLayouts:
+  af292691-e841-4a01-9b79-7808c646dc60:
+    cardThumbAlignment: end
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2025-09-24T14:56:13+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            includeInCards: false
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            providesThumbs: false
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\TitleField
+            uid: afaa7a3d-5a01-4259-b39a-a5162be46912
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: ee344114-6d62-4f6e-8adb-734713b8e63d
+        userCondition: null
+handle: relatedGroups
+name: 'Gerelateerde groepen'
+siteSettings:
+  66aa3aba-35c5-4d21-93aa-ebcb50421172:
+    hasUrls: false
+    template: null
+    uriFormat: null
+  089632a9-4660-4bdc-a011-d5dcfed12764:
+    hasUrls: false
+    template: null
+    uriFormat: null
+  c074f890-9562-4809-b6a5-9905399f1210:
+    hasUrls: false
+    template: null
+    uriFormat: null
+  d13359bc-448f-48e7-9263-72b92ed81002:
+    hasUrls: false
+    template: null
+    uriFormat: null
+structure:
+  maxLevels: 1
+  uid: 52ba7122-e387-4695-8f4c-7955507af287

@@ -1,0 +1,67 @@
+color: null
+fieldLayouts:
+  291c49f9-6ee8-457f-ae8e-1c0e7e4f625b:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2025-04-15T11:32:04+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            includeInCards: false
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            providesThumbs: false
+            readonly: false
+            required: true
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 504a5597-9a13-4ca3-8dc6-c236f1b3ec3d
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-04-15T11:35:00+00:00'
+            elementCondition: null
+            fieldUid: 26a15df5-a4d1-4e6d-a0ba-af582206462c
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: d28f538b-8ccc-433a-bcc1-e6e169ef239e
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 490e177a-dc33-42b8-989e-81911d7b3654
+        userCondition: null
+handle: BREADCRUMB_ITEM
+hasTitleField: true
+icon: baguette
+name: 'Breadcrumb item'
+showSlugField: false
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

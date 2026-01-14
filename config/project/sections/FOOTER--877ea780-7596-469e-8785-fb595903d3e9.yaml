@@ -1,0 +1,46 @@
+defaultPlacement: end
+enableVersioning: true
+entryTypes:
+  -
+    uid: d478788e-2f29-4073-a85f-15858cc56ffd
+handle: FOOTER
+maxAuthors: 1
+name: Footer
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
+      -
+        - refresh
+        - '1'
+propagationMethod: custom
+siteSettings:
+  66aa3aba-35c5-4d21-93aa-ebcb50421172:
+    enabledByDefault: true
+    hasUrls: false
+    template: null
+    uriFormat: null
+  089632a9-4660-4bdc-a011-d5dcfed12764:
+    enabledByDefault: true
+    hasUrls: false
+    template: null
+    uriFormat: null
+  c074f890-9562-4809-b6a5-9905399f1210:
+    enabledByDefault: true
+    hasUrls: false
+    template: null
+    uriFormat: null
+  d13359bc-448f-48e7-9263-72b92ed81002:
+    enabledByDefault: true
+    hasUrls: false
+    template: null
+    uriFormat: null
+structure:
+  maxLevels: null
+  uid: 1a58758b-626b-467e-a168-434d2ca43b64
+type: structure

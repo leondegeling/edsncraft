@@ -1,0 +1,33 @@
+defaultPlacement: end
+enableVersioning: false
+entryTypes:
+  -
+    uid: 25d26794-2f4f-4a4c-a324-5109b4870342
+handle: NED_CASES
+maxAuthors: 1
+name: 'Use cases'
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
+      -
+        - refresh
+        - '1'
+propagationMethod: all
+siteSettings:
+  66aa3aba-35c5-4d21-93aa-ebcb50421172:
+    enabledByDefault: true
+    hasUrls: true
+    template: null
+    uriFormat: en/use-cases
+  d13359bc-448f-48e7-9263-72b92ed81002:
+    enabledByDefault: true
+    hasUrls: true
+    template: null
+    uriFormat: nl/use-cases
+type: single

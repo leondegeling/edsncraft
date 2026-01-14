@@ -1,0 +1,85 @@
+columnSuffix: null
+handle: blocks
+instructions: null
+name: Blocks
+searchable: false
+settings:
+  createButtonLabel: Toevoegen
+  defaultIndexViewMode: cards
+  enableVersioning: false
+  entryTypes:
+    -
+      __assoc__:
+        -
+          - uid
+          - b01d6c3f-e532-4516-86ca-e7eef7091e48
+        -
+          - group
+          - Algemeen
+    -
+      __assoc__:
+        -
+          - uid
+          - 3a64d23b-32a1-4137-87ca-6719340373fa
+        -
+          - group
+          - Algemeen
+    -
+      __assoc__:
+        -
+          - uid
+          - 6e82571b-0c86-4821-a222-0af8471862d4
+        -
+          - group
+          - Algemeen
+    -
+      __assoc__:
+        -
+          - uid
+          - c5d2c9c4-d877-463a-9ab2-73afc1444830
+        -
+          - group
+          - Algemeen
+    -
+      __assoc__:
+        -
+          - uid
+          - 2b32f6f3-8a43-4af4-8c4b-f5efd53faf87
+        -
+          - group
+          - Ned.nl
+    -
+      __assoc__:
+        -
+          - uid
+          - 3a89cd0e-409e-400c-a34d-8c2b03bab1b6
+        -
+          - group
+          - Ned.nl
+    -
+      __assoc__:
+        -
+          - uid
+          - 6280884d-d74c-4f72-b24a-a6364abd621f
+        -
+          - group
+          - Ned.nl
+    -
+      __assoc__:
+        -
+          - uid
+          - e9eb240a-ad9f-4fc7-973f-feab19fd9e86
+        -
+          - group
+          - Ned.nl
+  includeTableView: false
+  maxEntries: null
+  minEntries: null
+  pageSize: 50
+  propagationKeyFormat: null
+  propagationMethod: siteGroup
+  showCardsInGrid: false
+  viewMode: cards
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

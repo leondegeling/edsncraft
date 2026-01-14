@@ -1,0 +1,46 @@
+defaultPlacement: end
+enableVersioning: true
+entryTypes:
+  -
+    uid: b070f1e9-f369-4be4-ac14-4c30d3f1ccfd
+handle: BOTTOM_LINKS
+maxAuthors: 1
+name: 'Bottom links'
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - refresh
+        - '1'
+      -
+        - urlFormat
+        - '{url}'
+propagationMethod: siteGroup
+siteSettings:
+  66aa3aba-35c5-4d21-93aa-ebcb50421172:
+    enabledByDefault: true
+    hasUrls: false
+    template: null
+    uriFormat: null
+  089632a9-4660-4bdc-a011-d5dcfed12764:
+    enabledByDefault: true
+    hasUrls: false
+    template: null
+    uriFormat: null
+  c074f890-9562-4809-b6a5-9905399f1210:
+    enabledByDefault: true
+    hasUrls: false
+    template: null
+    uriFormat: null
+  d13359bc-448f-48e7-9263-72b92ed81002:
+    enabledByDefault: true
+    hasUrls: false
+    template: null
+    uriFormat: null
+structure:
+  maxLevels: 1
+  uid: 34132011-bac4-41e9-bd93-0984b1b1c0e2
+type: structure

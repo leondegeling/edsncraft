@@ -1,0 +1,115 @@
+color: null
+fieldLayouts:
+  fa4e8fc9-2623-4923-a20b-7ff282a1c0ef:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2025-06-12T12:11:58+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            includeInCards: false
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            providesThumbs: false
+            readonly: false
+            required: true
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 4bf55fda-c07f-439c-81d3-1b2f0876afc6
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-06-12T12:11:58+00:00'
+            elementCondition: null
+            fieldUid: bdadc13b-5397-44dc-9d8b-7f74bc739f86
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: Tekst
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: cba4b863-e69e-4120-b94e-15f98136ac70
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-06-12T12:06:51+00:00'
+            elementCondition: null
+            fieldUid: c597df25-6a4c-4ce1-a443-709db0448b92
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: Categorieen
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: fdff9138-642b-44c6-bf7f-ec582c451f22
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-06-12T13:00:49+00:00'
+            elementCondition: null
+            fieldUid: 29c2c3e9-d577-44a9-9efb-c0e7a5876d9f
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: d2096b95-877d-48bb-92b1-59453734429d
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-06-12T13:02:23+00:00'
+            elementCondition: null
+            fieldUid: 176699c6-7faa-4b7e-91e3-a2f3846f79c5
+            handle: highlightedTitle
+            includeInCards: false
+            instructions: null
+            label: 'Label top vragen'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 0a1139d8-ef5e-45c4-b53b-e4f2536dd0e1
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 3bdd264f-2a25-4d16-8871-fe21886d7067
+        userCondition: null
+handle: blockFAQ
+hasTitleField: true
+icon: null
+name: 'Blok - Veelgestelde vragen'
+showSlugField: false
+showStatusField: false
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

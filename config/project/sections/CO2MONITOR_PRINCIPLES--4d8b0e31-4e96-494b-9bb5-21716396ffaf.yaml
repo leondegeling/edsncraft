@@ -1,0 +1,33 @@
+defaultPlacement: end
+enableVersioning: true
+entryTypes:
+  -
+    uid: 25d26794-2f4f-4a4c-a324-5109b4870342
+handle: CO2MONITOR_PRINCIPLES
+maxAuthors: 1
+name: 'Co2 monitor - Uitgangspunten'
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - refresh
+        - '1'
+      -
+        - urlFormat
+        - '{url}'
+propagationMethod: all
+siteSettings:
+  089632a9-4660-4bdc-a011-d5dcfed12764:
+    enabledByDefault: true
+    hasUrls: true
+    template: null
+    uriFormat: en/principles
+  c074f890-9562-4809-b6a5-9905399f1210:
+    enabledByDefault: true
+    hasUrls: true
+    template: null
+    uriFormat: nl/uitgangspunten
+type: single
